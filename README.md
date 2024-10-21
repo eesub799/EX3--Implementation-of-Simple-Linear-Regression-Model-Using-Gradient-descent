@@ -19,6 +19,8 @@ To write a program to implement the linear regression model with gradient descen
 
 ## Program:.
 ```
+#NAME: SHAIK EESUB
+#REG NO: 2305002021
 import pandas as pd
 data=pd.read_csv("/content/ex45Placement_Data.csv")
 data.head()
